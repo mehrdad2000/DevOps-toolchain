@@ -195,6 +195,7 @@
 - HCL OneTest
 
 # Monitoring
+- influxDB TICK Stack
 - Creately
 - Micro Focus Solutions Business Manager
 - Micro Focus Project & Portfolio Management
