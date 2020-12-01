@@ -366,6 +366,7 @@
 - Oversecured
 
 # Release Management
+- GitLab
 - CA Automic Release Automation
 - Digital.ai Release
 - BMC RLM
@@ -467,6 +468,7 @@
 - PagerDuty
 - ServiceNow
 - Atlassian Jira
+- Youtrack
 - TOPdesk
 - BMC Helix ITSM
 
