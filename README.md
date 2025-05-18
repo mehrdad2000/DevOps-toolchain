@@ -21,6 +21,10 @@ https://github.com/vmware-tanzu/velero
 # kafka
 https://github.com/provectus/kafka-ui
 
+# ELK docker-compose
+https://github.com/deviantony/docker-elk
+
+
 # Enterprise Agile Planning
 - Atlassian Jira Align
 - Broadcom Rally
