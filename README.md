@@ -9,6 +9,8 @@ https://gist.github.com/thomasdarimont/d22a616a74b45964106461efb948df9c
 ### test openldap
 openldap ldapsearch -x -H ldap://localhost -b dc=example,dc=org -D "cn=admin,dc=example,dc=org" -w admin
 
+# backup kuber
+https://github.com/vmware-tanzu/velero
 
 # Enterprise Agile Planning
 - Atlassian Jira Align
