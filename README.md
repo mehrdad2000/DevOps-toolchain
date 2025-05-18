@@ -1,7 +1,8 @@
 # DevOps-toolchain
 
-## openldap/phpldapadmin docker-compose
+# Directory Services
 
+## openldap/phpldapadmin docker-compose
 https://rajeshscribe.com/blogs/how-to-setup-lightweight-ldap-server-with-docker
 
 ### test openldap
