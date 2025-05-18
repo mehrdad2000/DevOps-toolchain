@@ -1,8 +1,11 @@
 # DevOps-toolchain
 
-#openldap/phpldapadmin docker-compose
+##openldap/phpldapadmin docker-compose
 
--https://rajeshscribe.com/blogs/how-to-setup-lightweight-ldap-server-with-docker
+https://rajeshscribe.com/blogs/how-to-setup-lightweight-ldap-server-with-docker
+
+##test openldap
+docker exec openldap ldapsearch -x -H ldap://localhost -b dc=example,dc=org -D "cn=admin,dc=example,dc=org" -w admin
 
 
 # Enterprise Agile Planning
