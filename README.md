@@ -1,5 +1,11 @@
 # DevOps-toolchain
 
+# CNCF
+https://landscape.cncf.io/?group=projects-and-products&view-mode=card&classify=category&sort-by=name&sort-direction=asc#app-definition-and-development--application-definition-image-build
+
+# Jump server
+https://github.com/gravitational/teleport
+
 # Directory Services
 
 ## openldap/phpldapadmin docker-compose
