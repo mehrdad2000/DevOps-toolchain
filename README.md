@@ -18,6 +18,9 @@ openldap ldapsearch -x -H ldap://localhost -b dc=example,dc=org -D "cn=admin,dc=
 # backup kuber
 https://github.com/vmware-tanzu/velero
 
+# kafka
+https://github.com/provectus/kafka-ui
+
 # Enterprise Agile Planning
 - Atlassian Jira Align
 - Broadcom Rally
